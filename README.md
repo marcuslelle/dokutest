@@ -1,3 +1,3 @@
 # dokutest
 
-![Alternativer Text](image.jpg)
+![Alternativer Text](test.jpg)
